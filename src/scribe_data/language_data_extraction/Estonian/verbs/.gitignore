@@ -1,1 +1,5 @@
 how --name-only
+
+how
+../../../../../how --name-only
+../../../../../how --name-only
